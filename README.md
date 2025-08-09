@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi there👋, I'm Kushagra Pandey
+## Hey there👋, I'm Kushagra Pandey
 
 </div>
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning about adversarial ML attacks, cybersecurity, and DSA
+- 🌱 Learning about ML, cybersecurity, and DSA
 - 💡 Into bug finding, CTFs
 - 💼 Current focus: researching adversarial attacks in machine learning
 - 📂 Projects and DSA solutions in my repos
