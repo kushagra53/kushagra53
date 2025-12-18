@@ -16,11 +16,9 @@
 ## 🚀 About Me
 
 - 🌱 Learning about ML, cybersecurity, and DSA
-- 💡 Into bug finding, CTFs
+- 💡 Into CTFs
 - 💼 Current focus: researching adversarial attacks in machine learning
 - 📂 Projects and DSA solutions in my repos
-
-Always up for a chat about sports and tech or collaboration!
 
 ## 🧩 LeetCode Desk
 
@@ -35,10 +33,11 @@ Always up for a chat about sports and tech or collaboration!
 - Penetration testing using Metasploitable and Shellter
 
 ## 🤖 Machine Learning
--  Building something cool in image processing—stay tuned for details!
+- Built an image classification model using CNNs for landmark/scene recognition, with experiments on data augmentation and regularization.
+- Developed an intrusion detection system on the NSL-KDD dataset using Random Forests and other ML models to detect network anomalies.
+- Exploring adversarial machine learning: generating adversarial examples and studying how attacks impact model robustness on security-focused datasets.
 
 ## 🏟️ Hobbies
 - Chess ♟️ (Always a few moves ahead... or so I hope!)
 - Football ⚽ (Still can't dribble past my own code bugs!)
-
 ---
