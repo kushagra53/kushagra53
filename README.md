@@ -1,43 +1,30 @@
 <div align="center">
 
-## Hey there👋, I'm Kushagra Pandey
+## Kushagra Pandey
+
+CSE student @ Jaypee University • Cybersecurity + ML (adversarial) • Building practical projects
+
+📫 kushagrapandey096@gmail.com • [LinkedIn](https://www.linkedin.com/in/kushagra-pandey-bb6b9a285/) • [LeetCode](https://leetcode.com/kushagra53/)
 
 </div>
 
-<div align="center">
+## Focus areas
+- Cybersecurity: network security, web basics, CTF practice, traffic analysis.
+- Machine learning: applied ML + adversarial robustness (attacks/defenses).
+- Cloud/DevOps: Terraform + CI security scanning (IaC hardening, automation mindset).
 
-🎓 CSE Student at Jaypee University  
-🛡️ Cyber Security Enthusiast | ML Explorer  
-🌱 Delving into ethical hacking and exploring ML vulnerabilities  
-📨 Reach me: kushagrapandey096@gmail.com · [LinkedIn](https://www.linkedin.com/in/kushagra-pandey-bb6b9a285/)  
+## Featured work
+- **AWS Terraform DevSecOps demo**: CI blocks insecure IaC using Trivy config scanning; S3 hardened with Public Access Block + KMS encryption.
+- Intrusion Detection (NSL-KDD): Random Forest + experiments with features/models.
+- Landmark/scene classification: CNN experiments with augmentation and regularization.
 
-</div>
+> Tip: pin 4–6 best repos on your GitHub profile so this section is backed by visible code.
 
-## 🚀 About Me
+## Skills (practical)
+- Security: Wireshark traffic analysis, MITM/ARP concepts, Linux basics, lab pentesting.
+- ML: CNNs, classical ML, evaluation/metrics, adversarial examples (learning in progress).
+- Tools: Git/GitHub, Terraform, GitHub Actions, basic AWS.
 
-- 🌱 Learning about ML, cybersecurity, and DSA
-- 💡 Into CTFs
-- 💼 Current focus: researching adversarial attacks in machine learning
-- 📂 Projects and DSA solutions in my repos
-
-## 🧩 LeetCode Desk
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/kushagra53/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/kushagra53?theme=light&font=Baloo&ext=contest)
-
-## 🔒 Cyber Security Interests
-- Linux system administration
-- Man-in-the-Middle (MITM) and ARP spoofing attacks
-- Network traffic analysis with Wireshark
-- Penetration testing using Metasploitable and Shellter
-
-## 🤖 Machine Learning
-- Built an image classification model using CNNs for landmark/scene recognition, with experiments on data augmentation and regularization.
-- Developed an intrusion detection system on the NSL-KDD dataset using Random Forests and other ML models to detect network anomalies.
-- Exploring adversarial machine learning: generating adversarial examples and studying how attacks impact model robustness on security-focused datasets.
-
-## 🏟️ Hobbies
-- Chess ♟️ (Always a few moves ahead... or so I hope!)
-- Football ⚽ (Still can't dribble past my own code bugs!)
----
+## LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-profile-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/kushagra53/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/kushagra53?theme=light&font=Baloo&ext=contest)](https://leetcode.com/kushagra53/)
