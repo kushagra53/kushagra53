@@ -7,7 +7,7 @@
 CSE @ Jaypee University (2023–2027)  
 Open to **Security / DevSecOps Internships – Summer 2026**
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kushagra-pandey-bb6b9a285/)) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kushagrapandey096@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](kushagra-pandey.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kushagra-pandey-bb6b9a285/)) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kushagrapandey096@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@ I secure cloud infrastructure and build detection-driven systems designed for re
 
 ## 🚨 Flagship Work
 
-### Automated DevSecOps Pipeline — Policy-as-Code Security
+### Automated DevSecOps Pipeline
 Engineered a CI pipeline that prevents insecure infrastructure from reaching deployment.
 
 - Integrated **tfsec** to scan Terraform for misconfigurations
