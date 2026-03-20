@@ -5,7 +5,7 @@
 **Security-Focused Builder | Cloud Security • DevSecOps • Detection Engineering**
 
 CSE @ Jaypee University (2023–2027)  
-Open to **Security / DevSecOps Internships – Summer 2026**
+Open to **Security | Cloud | AI/ML | DevOps Internships – Summer 2026**
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://kushagra-pandey.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/kushagra-pandey-bb6b9a285/)) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kushagrapandey096@gmail.com)
 
